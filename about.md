@@ -2,17 +2,17 @@
 layout: home
 title: Urvashi Singh
 ---
-<div class="container" style="padding-left: 150px">
+<div class="container px-5">
     <div class="row">
-        <div class="col-6 col-md-4" style="padding-top: 20px; padding-bottom: 20px">
+        <div class="col-md-4" style="padding-bottom: 30px">
             <img src="/images/Headshot_Urvashi_S.jpg" class="img-fluid rounded-circle">
         </div>
         <br>
-        <div class="col-12 col-md-8">
-            <p class="text-left w-75" style="padding-left: 50px">Hello, I am an Immunology Data Analyst at <a class="a-link" href="https://cellcarta.com/" target="_blank">CellCarta</a>. I am a recent graduate in Microbiology and Immunology from McGill University. My research interests are at the intersection of infectious diseases, genomics, and bioinformatics. I am a passionate advocate for health care equity and accessibility.</p>
-            <p class="text-left w-75" style="padding-left: 50px">I collaborate with the <a class="a-link" href="https://www.langlaislab.com/" target="_blank"> Langlais Lab </a> at the McGill Genome Centre for bioinformatics projects. Currently, I am contributing to a project investigating the effect of thermoregulation on the immune response to <i>Leishmania</i> infections in a murine model.</p>
-            <p class="text-left w-75" style="padding-left: 50px"> Previously, I contributed to the End TB Goal at the <a class="a-link" href="https://www.paitbgroup.org/" target="_blank"> Pai Global TB Group </a> and researched the public-private mix for healthcare in high TB burden countries.</p>
-            <p class="text-left w-75" style="padding-left: 50px">I am also an artist, and I donate all profits to grassroots organizations for COVID-19 relief in India. Find my art <a class="a-link" href="https://www.whatapaagal.com/" target="_blank">here</a>.</p>
+        <div class="col-md-8">
+            <p style="padding-left: 50px">Hello, I am an Immunology Data Analyst at <a class="a-link" href="https://cellcarta.com/" target="_blank">CellCarta</a>. I am a recent graduate in Microbiology and Immunology from McGill University. My research interests are at the intersection of infectious diseases, genomics, and bioinformatics. I am a passionate advocate for health care equity and accessibility.</p>
+            <p style="padding-left: 50px">I collaborate with the <a class="a-link" href="https://www.langlaislab.com/" target="_blank"> Langlais Lab </a> at the McGill Genome Centre for bioinformatics projects. Currently, I am contributing to a project investigating the effect of thermoregulation on the immune response to <i>Leishmania</i> infections in a murine model.</p>
+            <p style="padding-left: 50px"> Previously, I contributed to the End TB Goal at the <a class="a-link" href="https://www.paitbgroup.org/" target="_blank"> Pai Global TB Group </a> and researched the public-private mix for healthcare in high TB burden countries.</p>
+            <p style="padding-left: 50px">I am also an artist, and I donate all profits to grassroots organizations for COVID-19 relief in India. Find my art <a class="a-link" href="https://www.whatapaagal.com/" target="_blank">here</a>.</p>
         </div>
     </div>
 </div>
