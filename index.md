@@ -4,7 +4,7 @@ title: Urvashi Singh
 ---
 <div class="container" style="padding-left: 150px">
     <div class="row">
-        <div class="col-6 col-md-4" style="padding-top: 20px">
+        <div class="col-6 col-md-4" style="padding-top: 20px; padding-bottom: 20px">
             <img src="/images/Headshot_Urvashi_S.jpg" class="img-fluid rounded-circle">
         </div>
         <br>
