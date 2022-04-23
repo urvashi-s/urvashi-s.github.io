@@ -18,13 +18,14 @@ title: Urvashi Singh
 </div>
 
 
-<br><br><br>
+<br><br>
 <hr width="700px;" style="height:1px" color="#f7c854">
 <!--<div class="container pt-4" style="background-color: #f7c854">-->
 <div class="container">
     <h5 class="page-heading">Latest</h5>
     <ul>
-    <li class="text-left"> One paper submitted to <i> Stem Cell Translational Medicine </i> and one paper under review in the <i>Journal of Clinical Tuberculosis and Other Mycobacterial Diseases</i> in 2022 </li>  
+    <li class="text-left"> Paper under review in the <i>Journal of Clinical Tuberculosis and Other Mycobacterial Diseases</i> in 2022 </li>
+    <li class="text-left"> Paper submitted to <i> Stem Cell Translational Medicine </i> in 2022 </li>  
     <li class="text-left"> Poster presented at the Till & McCulloch Meetings 2021 with TMM2021 Special Award </li>
     <li class="text-left">Advocacy article on <a class="a-link" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32627-1/fulltext">equity, diversity, and inclusion</a> in <i>The Lancet</i> 2021</li>
     <li class="text-left"><a class="a-link" href="https://www.spotlightnsp.co.za/2021/10/21/opinion-quality-tuberculosis-care-starts-with-people/">Advocacy op-ed</a> on quality of TB care in Spotlight 2021</li>
