@@ -5,7 +5,7 @@ title: "Research"
 
 <div class="container">
     <!--<div class="mx-auto" style="width: 800px;"> -->
-    <p class="text-center">See my <a class="a-link" href="https://scholar.google.com/citations?user=ad518uQAAAAJ&hl=en" target="_blank">Google Scholar. </a> Jump to <a class="a-link" href="#bioinformatics-projects"> bioinformatics</a> or <a class="a-link" href="#other-projects">other projects</a>.</p> 
+    <p class="text-center">See my <a class="a-link" href="https://scholar.google.com/citations?user=ad518uQAAAAJ&hl=en" target="_blank">Google Scholar. </a> Jump to <a class="a-link" href="#bioinformatics-projects"> bioinformatics</a> or <a class="a-link" href="#global-health-projects">global health projects</a>.</p> 
     <!--</div>-->
 </div>
 <br><br>
@@ -33,7 +33,7 @@ title: "Research"
     <img src="images/CD26_RNASeq_Figure.png" class="img-fluid">
     </div>
     <div class="col-md-6 my-5">  
-        <p><b>CD26 is a Marker of Replicative Senescence in Human Adipose-derived Multipotent Mesenchymal Stromal Cells (AD-MSCs)</b> <br />
+        <p><b>CD26 is a marker of replicative Senescence in Human Adipose-derived Multipotent Mesenchymal Stromal Cells (AD-MSCs)</b> <br />
         <b>Urvashi Singh*</b>, Rose Triantafillia Psaroudis*, Maximilien Lora, Peter Jeon, Abigail Boursiquot, Ursula Stochaj, David Langlais, Inés Colmegna<br />
         <i>Till & McCulloch Meetings 2021 (<span style='color:#D30202'>TMM2021 Special Award</span>) </i><br />
         <i>Publication in progress</i></p>
@@ -45,7 +45,7 @@ title: "Research"
 <br><br>
 
 <div class="container">
-<h5 id="other-projects" class="page-heading">Other Projects</h5>
+<h5 id="global-health-projects" class="page-heading">Global Health Projects</h5>
 <br> <br>
 <div class="row">
     <div class="col-md-6 mb-5">
