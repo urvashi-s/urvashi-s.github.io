@@ -21,7 +21,7 @@ title: Urvashi Singh
 <br><br>
 <hr width="700px;" style="height:1px" color="#f7c854">
 <!--<div class="container pt-4" style="background-color: #f7c854">-->
-<div class="container">
+<div class="container px-5">
     <h5 class="page-heading">Latest</h5>
     <ul>
     <li class="text-left"> Paper under review in the <i>Journal of Clinical Tuberculosis and Other Mycobacterial Diseases</i> in 2022 </li>
