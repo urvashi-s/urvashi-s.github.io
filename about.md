@@ -22,7 +22,7 @@ title: Urvashi Singh
 <br><br>
 <hr width="700px;" style="height:1px" color="#f7c854">
 <!--<div class="container pt-4" style="background-color: #f7c854">-->
-<div class="container px-5">
+<!-- <div class="container px-5">
     <h5 class="page-heading">Latest</h5>
     <ul>
     <li class="text-left"> Paper under review in the <i>Journal of Clinical Tuberculosis and Other Mycobacterial Diseases</i> in 2022 </li>
@@ -32,6 +32,6 @@ title: Urvashi Singh
     <li class="text-left"><a class="a-link" href="https://www.spotlightnsp.co.za/2021/10/21/opinion-quality-tuberculosis-care-starts-with-people/">Advocacy op-ed</a> on quality of TB care in Spotlight 2021</li>
     </ul>
     <br>
-</div>
+</div> -->
 
 <br><br>
