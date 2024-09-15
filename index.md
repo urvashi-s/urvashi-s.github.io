@@ -9,10 +9,11 @@ title: Urvashi Singh
         </div>
         <br>
         <div class="col-md-8">
-            <p style="padding-left: 50px">Hello, I am an Immunology Data Analyst at <a class="a-link" href="https://cellcarta.com/" target="_blank">CellCarta</a>. I am a recent graduate in Microbiology and Immunology from McGill University. My research interests are at the intersection of infectious diseases, genomics, and bioinformatics. I am a passionate advocate for health care equity and accessibility.</p>
-            <p style="padding-left: 50px">I collaborate with the <a class="a-link" href="https://www.langlaislab.com/" target="_blank"> Langlais Lab </a> at the McGill Genome Centre for bioinformatics projects. Currently, I am contributing to a project investigating the effect of thermoregulation on the immune response to <i>Leishmania</i> infections in a murine model.</p>
-            <p style="padding-left: 50px"> Previously, I contributed to the End TB Goal at the <a class="a-link" href="https://www.paitbgroup.org/" target="_blank"> Pai Global TB Group </a> and researched the public-private mix for healthcare in high TB burden countries.</p>
-            <p style="padding-left: 50px">I am also an artist, and I donate all profits to grassroots organizations for COVID-19 relief in India. Find my art <a class="a-link" href="https://www.whatapaagal.com/" target="_blank">here</a>.</p>
+            <p style="padding-left: 50px">Hello, I am a bioinformatician and statistical genetics scientist at <a class="a-link" href="https://5primesciences.com/" target="_blank">5 Prime Sciences</a>, where we use insights from human genetics to accelerate drug development and increase return on investment in the life sciences. My research interests are at the intersection of human genetics, causal inference, and bioinformatics. I am a passionate advocate for health care equity and accessibility.</p>
+            <p style="padding-left: 50px">At 5 Prime, I’m currently part of the Frontline Science team, where we leverage GWAS, ExWAS, PRS, and Mendelian Randomization for research programs. Previously, I was engaged in the Centromere platform team to make analysis pipelines robust and reproducible. I also manage the 5 Prime Sciences Portal, a data visualization tool that communicates analysis results to clients.</p> 
+            <p style="padding-left: 50px">Outside of science, I love making all forms of art – from music, painting, sketching, to block printing and crocheting. Find some of my art prints <a class="a-link" href="https://www.whatapaagal.com/" target="_blank">here</a>. I donate all proceeds to grassroots organizations for various relief funds in India, where I grew up.</p>
+            <p style="padding-left: 50px">I’m currently exploring opportunities to pursue a PhD in statistical genetics or genetic epidemiology, aiming to deepen my expertise and contribute to research that is both impactful and exciting.
+            </p>
         </div>
     </div>
 </div>
@@ -21,7 +22,7 @@ title: Urvashi Singh
 <br><br>
 <hr width="700px;" style="height:1px" color="#f7c854">
 <!--<div class="container pt-4" style="background-color: #f7c854">-->
-<div class="container px-5">
+<!-- <div class="container px-5">
     <h5 class="page-heading">Latest</h5>
     <ul>
     <li class="text-left"> Paper under review in the <i>Journal of Clinical Tuberculosis and Other Mycobacterial Diseases</i> in 2022 </li>
@@ -31,6 +32,6 @@ title: Urvashi Singh
     <li class="text-left"><a class="a-link" href="https://www.spotlightnsp.co.za/2021/10/21/opinion-quality-tuberculosis-care-starts-with-people/">Advocacy op-ed</a> on quality of TB care in Spotlight 2021</li>
     </ul>
     <br>
-</div>
+</div> -->
 
 <br><br>
