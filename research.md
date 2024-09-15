@@ -8,8 +8,8 @@ title: "Research"
     <p class="text-center">See my <a class="a-link" href="https://scholar.google.com/citations?user=ad518uQAAAAJ&hl=en" target="_blank">Google Scholar. </a> Jump to <a class="a-link" href="#bioinformatics-projects"> bioinformatics</a> or <a class="a-link" href="#global-health-projects">global health projects</a>.</p> 
     <div class="highlight-box">
         <!-- <div style="max-width: 600px; margin: 0 auto;"> -->
-        <p class="text-center">Note that my work at <a class="a-link" href="https://5primesciences.com/" target="_blank">5 Prime Sciences</a> as a bionformatician and statistical genetics scientist is proprietary and not listed here. </p>
-        <p>For more information on the general research area and tools I use, please see my CV.</p>
+        <p class="text-center text-bold">Note that my work at <a class="a-link" href="https://5primesciences.com/" target="_blank">5 Prime Sciences</a> as a bionformatician and statistical genetics scientist is proprietary and not listed here. </p>
+        <p class="text-center">For more information on the general research area and tools I use, please see my CV.</p>
         <!-- </div> -->
     </div>
 </div>
